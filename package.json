@@ -10,6 +10,8 @@
     "@lastolivegames/becsy": "0.8.4",
     "bitecs": "0.3.21",
     "ecsy": "0.4.2",
+    "eev-core": "^0.0.5",
+    "eev-dispatcher": "^0.0.5",
     "flock-ecs": "0.1.5",
     "geotic": "4.1.6",
     "goodluck": "7.0.0",
